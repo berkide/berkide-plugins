@@ -1,0 +1,10 @@
+{
+  "name": "emacs-mode",
+  "version": "1.0.0",
+  "description": "Emacs-style keybindings — C-x prefix, M-x commands, kill ring",
+  "main": "index.js",
+  "dependencies": ["berkide-default"],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

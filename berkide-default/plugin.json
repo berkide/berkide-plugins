@@ -1,0 +1,10 @@
+{
+  "name": "berkide-default",
+  "version": "1.0.0",
+  "description": "Default keybindings for BerkIDE — universal shortcuts every developer expects",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "auto-pairs",
+  "version": "1.0.0",
+  "description": "Auto-close brackets, quotes, and tags as you type",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

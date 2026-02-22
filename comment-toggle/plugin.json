@@ -1,0 +1,10 @@
+{
+  "name": "comment-toggle",
+  "version": "1.0.0",
+  "description": "Toggle line and block comments with language detection",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

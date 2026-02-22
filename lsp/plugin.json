@@ -1,0 +1,10 @@
+{
+  "name": "lsp",
+  "version": "1.0.0",
+  "description": "Language Server Protocol client — completion, diagnostics, goto definition, hover",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

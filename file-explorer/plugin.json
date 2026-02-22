@@ -1,0 +1,10 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.0",
+  "description": "File explorer logic — directory tree, file operations, gitignore filtering",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

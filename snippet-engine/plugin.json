@@ -1,0 +1,10 @@
+{
+  "name": "snippet-engine",
+  "version": "1.0.0",
+  "description": "Code snippet engine — tab stops, placeholders, transforms, per-language snippets",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

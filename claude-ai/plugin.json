@@ -1,0 +1,10 @@
+{
+  "name": "claude-ai",
+  "version": "1.0.0",
+  "description": "Claude AI assistant — inline completion, code explain, refactor, chat, powered by Anthropic",
+  "main": "index.js",
+  "dependencies": [],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}

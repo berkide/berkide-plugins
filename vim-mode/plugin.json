@@ -1,0 +1,10 @@
+{
+  "name": "vim-mode",
+  "version": "1.0.0",
+  "description": "Vim-style modal editing — normal, insert, visual modes with motions and operators",
+  "main": "index.js",
+  "dependencies": ["berkide-default"],
+  "berkide": {
+    "activationEvents": ["onStartup"]
+  }
+}
